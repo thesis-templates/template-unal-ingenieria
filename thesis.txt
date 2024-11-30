@@ -1,1 +1,2 @@
 ./thesis/thesis.md
+./thesis/resumen.md

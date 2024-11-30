@@ -1,26 +1,131 @@
 \newpage
-# Thesis Template
-
-[\thesis](https://thesis.lat)
-
-\vspace{2cm}
+\pagestyle{empty}
+\centering
 
 ![](./format/crest.png){height=5cm}
 
-\hfill
+\vspace{2cm}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ante nibh, imperdiet in purus nec, ornare sagittis leo. Sed tincidunt vulputate risus, vitae tempus justo rhoncus ac. Pellentesque magna metus, laoreet ut tincidunt non, ornare nec enim. Praesent tristique suscipit dui vitae euismod. Integer vel nibh accumsan neque maximus feugiat non at elit. Aliquam ornare eros tempor libero congue, sed dictum neque bibendum. Maecenas efficitur velit fringilla mauris hendrerit faucibus. Sed ac mollis nisi.
+\textbf{\huge Título de investigación}
 
-Integer posuere ornare dui et lobortis. Duis auctor, erat ut feugiat pretium, libero lectus viverra ex, quis euismod justo metus condimentum nunc. Proin nec ornare quam. Curabitur et lectus ut risus vulputate suscipit. Pellentesque mi erat, aliquam vel urna ut, lobortis mollis ex. Ut faucibus tristique ipsum, non sodales dolor condimentum nec. Ut tristique rhoncus molestie. Vestibulum imperdiet mauris at mi dictum, in aliquet ante porta. In convallis lorem vitae augue pharetra, id posuere lacus luctus. Pellentesque laoreet dolor mauris, ac feugiat quam bibendum at.
+\vspace{2cm}
 
-Vestibulum a urna ante. Vivamus pretium dapibus orci, in egestas turpis bibendum eget. Sed a nunc ac lectus mollis gravida sed sit amet nunc. Phasellus congue neque sit amet nulla tempus, et dignissim magna fermentum. Curabitur sapien magna, sollicitudin et eros at, venenatis blandit leo. Donec in nulla ut quam hendrerit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam feugiat tristique neque vel condimentum. Ut cursus vestibulum vulputate. In semper arcu et accumsan mattis. Mauris feugiat, turpis sit amet malesuada auctor, orci lacus condimentum dolor, vel laoreet dui nisi eget mi. Pellentesque sagittis id lorem sit amet pretium.
+\textbf{\large Nombres Apellidos}
 
+\vfill
 
-@doc2024 @bib2024 @pd2024 @apa2022 @lua2024
+Universidad Nacional de Colombia
+
+Facultad de Ingeniería, Departamento de Ingeniería
+
+Bogotá, Colombia
+
+2024
 
 \newpage
 
-## References
+\textbf{\huge Título de investigación}
+
+\vspace{2cm}
+
+\textbf{\large Nombres Apellidos}
+
+\vspace{2cm}
+
+Tesis o trabajo de investigación presentada(o)
+como requisto parcial para optar al título de:
+
+\textbf{Grado en Ingeniería}
+
+\vspace{2cm}
+
+Director(a):
+
+Ph.D. Nombres Apellidos
+
+\vspace{2cm}
+
+Línea de Investigación:
+
+Nombre de línea
+
+Grupo de Investigación:
+
+Nombre de Grupo
+
+\vfill
+
+Universidad Nacional de Colombia
+
+Facultad de Ingeniería, Departamento de Ingeniería
+
+Bogotá, Colombia
+
+2024
+
+\newpage
+\justifying
+
+## Resumen
+
+Sit fugiat proident tempor cupidatat officia consequat ad laboris sit laboris sit nostrud nostrud Lorem. Nisi ex reprehenderit cupidatat ut dolor cupidatat ut culpa. Do sunt adipisicing ex sint velit qui incididunt do incididunt. Ipsum duis deserunt ipsum in do nostrud.
+
+Occaecat consequat eu minim voluptate excepteur fugiat sit reprehenderit. Commodo sint minim qui laborum. Ad elit ipsum laboris elit. Dolor Lorem officia ea aliquip officia commodo ex sit eu ipsum nulla nisi. Proident do do duis enim. Aliquip dolor cillum dolore enim quis sint aliquip. Non incididunt exercitation minim duis ullamco proident incididunt ex magna tempor pariatur eiusmod.
+
+Labore occaecat magna ut ut dolore adipisicing duis fugiat aliquip est. Id non ullamco ex excepteur consectetur aliqua id. Culpa non exercitation do commodo. Velit culpa sunt velit fugiat.
+
+**Palabras clave**: @doc2024 @bib2024 @pd2024 @apa2022 @lua2024
+
+\newpage
+
+## Abstract
+
+Aliquip quis consectetur voluptate consectetur consectetur nisi cupidatat voluptate. Cupidatat elit veniam minim dolore ut in fugiat cupidatat fugiat anim nisi eiusmod sit. Duis mollit esse duis ipsum. Nisi dolor dolor eu consectetur eiusmod occaecat dolor commodo cupidatat eu in ad sit. Amet enim mollit reprehenderit ad. Nisi non mollit ea reprehenderit incididunt non sunt sunt nulla culpa adipisicing deserunt pariatur.
+
+Enim non sit anim irure dolore fugiat amet. Ad sit esse dolor duis cillum officia voluptate ut. Aute dolore voluptate elit ad incididunt voluptate tempor anim sint fugiat tempor proident ad sunt. Sit adipisicing aliqua aliqua quis duis elit eiusmod incididunt irure incididunt irure aute elit. Non occaecat cupidatat eu sint enim sit aute fugiat minim quis magna sint occaecat. Reprehenderit esse exercitation voluptate reprehenderit voluptate elit.
+
+Amet aliqua magna ex et. Anim Lorem commodo quis sunt dolor pariatur mollit quis in ex irure. Dolore amet esse culpa velit eu sunt.
+
+**Keywords**: @doc2024 @bib2024 @pd2024 @apa2022 @lua2024
+
+<!-- Índice -->
+\newpage
+\renewcommand\contentsname{\Large Contenido}
+\begin{small}
+\tableofcontents
+\end{small}
+
+\newpage
+
+Lista de figuras
+
+\newpage
+
+Lista de tablas
+
+\newpage
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+# Introducción
+
+# Capítulo 1: Marco de refencial
+
+# Capítulo 2: Diseño metadológico
+
+# Capítulo 3:
+
+# Capítulo 4:
+
+# Capítulo 5:
+
+# Conclusiones y recomendaciones
+
+# Anexos
+
+# Bibliografía
 
 ::: {#refs}
 :::
