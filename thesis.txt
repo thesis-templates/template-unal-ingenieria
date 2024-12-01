@@ -1,2 +1,10 @@
 ./thesis/thesis.md
 ./thesis/resumen.md
+./thesis/contenido.md
+./thesis/introduccion.md
+./thesis/revision.md
+./thesis/diseno.md
+./thesis/resultados.md
+./thesis/conclusiones.md
+./thesis/anexos.md
+./thesis/bibliografia.md
