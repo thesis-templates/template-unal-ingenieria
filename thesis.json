@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "col",
-  "lingua": "spa",
-  "universitas": "unal.edu.co",
-  "facultas": "ingenieria.bogota.unal.edu.co/es/",
-  "repositorium": "repositorio.unal.edu.co",
-  "descriptio": "Facultad de Ingeniería / Universidad Nacional de Colombia / Colombia"
+  "year": 2024,
+  "description": "Facultad de Ingeniería / Universidad Nacional de Colombia / Colombia",
+  "iso_country": "col",
+  "iso_language": "spa",
+  "url_university": "https://unal.edu.co/",
+  "url_school": "https://ingenieria.bogota.unal.edu.co/",
+  "url_repository": "https://repositorio.unal.edu.co/"
 }
